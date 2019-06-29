@@ -1,3 +1,1 @@
-<script>
 console.log("test");
-</script>
